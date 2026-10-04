@@ -3,8 +3,8 @@
 Última actualización: 1 de octubre de 2026
 
 ## Responsable
-RAC technologies
-Contacto: racspotifycreators@gmail.com
+Andrea Casal Gutierrez
+Contacto:  opotestsplaystore@gmail.com
 
 ## Datos que recoge la app
 FIR Simulacro no recopila, almacena en servidores ni comparte datos personales
